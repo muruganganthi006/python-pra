@@ -1,4 +1,4 @@
-#print("hello, python!")
+print("hello, python!")
 name = "Murugan"
 age = 21
 salary = 25000.50
